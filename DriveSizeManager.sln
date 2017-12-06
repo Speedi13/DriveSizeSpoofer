@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DriveSizeManager", "DriveSizeManager\DriveSizeManager.vcxproj", "{1AB42A55-4B00-4EB5-B2B8-9FAEEB151C20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VolumeInformationHook", "VolumeInformationHook\VolumeInformationHook.vcxproj", "{50BF338A-6E96-4FD8-897B-D089CB9D7F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB42A55-4B00-4EB5-B2B8-9FAEEB151C20}.Debug|x64.ActiveCfg = Debug|x64
+		{1AB42A55-4B00-4EB5-B2B8-9FAEEB151C20}.Debug|x64.Build.0 = Debug|x64
+		{1AB42A55-4B00-4EB5-B2B8-9FAEEB151C20}.Release|x64.ActiveCfg = Release|x64
+		{1AB42A55-4B00-4EB5-B2B8-9FAEEB151C20}.Release|x64.Build.0 = Release|x64
+		{50BF338A-6E96-4FD8-897B-D089CB9D7F56}.Debug|x64.ActiveCfg = Debug|x64
+		{50BF338A-6E96-4FD8-897B-D089CB9D7F56}.Debug|x64.Build.0 = Debug|x64
+		{50BF338A-6E96-4FD8-897B-D089CB9D7F56}.Debug|x64.Deploy.0 = Debug|x64
+		{50BF338A-6E96-4FD8-897B-D089CB9D7F56}.Release|x64.ActiveCfg = Release|x64
+		{50BF338A-6E96-4FD8-897B-D089CB9D7F56}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
