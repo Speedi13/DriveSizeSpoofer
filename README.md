@@ -10,3 +10,9 @@ This has only been tested and compiled on X64
       
 ## Demo
 [![Demo video](https://j.gifs.com/MQ1xlA.gif)](https://www.youtube.com/watch?v=GeD54p6O6K0)
+
+## Download
+
+Download the latest release from here:
+
+https://github.com/Speedi13/DriveSizeSpoofer/releases
